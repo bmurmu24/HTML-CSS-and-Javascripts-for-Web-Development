@@ -1,0 +1,23 @@
+.container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+textarea {
+  width: 400px;
+  height: 100px;
+  resize: none;
+  margin-bottom: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+#results {
+  margin-top: 20px;
+}
